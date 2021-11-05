@@ -1,4 +1,6 @@
-## Hi! I'm Isaac
+## Hi! I'm Isaac!
+
+### About me:
 
 You can use the [editor on GitHub](https://github.com/imanly97/imanly97.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
