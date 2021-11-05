@@ -12,6 +12,9 @@ def complicated_data_mining(x):
       import pandas
       import numpy
       print('Hello World!')
+      pandas.DataFrame(x)
+    
+    return x.describe()
       
 ```
 
