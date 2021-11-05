@@ -14,9 +14,6 @@ Here's [my Github repo](https://github.com/imanly97) where you can find non-prof
 4. Data Mining 1: Citi Bike predictive modeling. Used a few supervised methods like Naïve Bayes and NN’s to predict the end location of a NYC user’s trip. The best average error achieved was 1.8 miles.
 5. Data Mining 2: Unsupervised fake news detection. Used several unsupervised methods to separate a dataset into real and fake news. The best accuracy achieved was 78% via KMeans. Much of this paper was focused on feature engineering such as sentiment analysis
 6. Economics Thesis: Investigated the relationship between the West Africa Ebola Epidemic and West African Inequality. This study used multiple regression with causal mechanisms being unemployment and foreign investment. 
-![image](https://user-images.githubusercontent.com/47435645/140588031-d33c2935-c14e-4594-b496-0fc5174f8c14.png)
-
-
 
 
 ### Proof I can code:
@@ -24,10 +21,11 @@ Here's [my Github repo](https://github.com/imanly97) where you can find non-prof
 def complicated_data_mining(x):
     
     for i in range(len(x)):
-      import pandas
-      import numpy
-      print('Hello World!')
-      pandas.DataFrame(x)
+        import pandas
+        import numpy
+        x = pandas.DataFrame(x)
+        print('Hello World!')
+      
     
     return x.describe()
       
