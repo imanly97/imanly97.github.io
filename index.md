@@ -2,7 +2,7 @@
 
 ### About me:
 
-I'm a data scientist in the making who enjoys extracting the signal from noise. I am a master's student at the Goergen Institute for Data Science in Rochester, NY. I believe the best way to understand the world is through data! Most recently my professional work has been on an asset management team at a start up and modeling client behavior for a fortune 700 HR company. On the life side of the work-life balance, I like to spend my free time reading, fencing, gaming with friends, or falling off of rocks.
+I'm a data scientist in the making who enjoys extracting the signal from noise. Currently, I'm a master's student at the Goergen Institute for Data Science in Rochester, NY because I believe the best way to understand the world is through data! Most recently my professional work has been on an asset management team at a start up and modeling client behavior for a fortune 700 HR company. On the life side of the work-life balance, I like to spend my free time reading, fencing, gaming with friends, or falling off of rocks.
 
 ### Projects I've done:
 
