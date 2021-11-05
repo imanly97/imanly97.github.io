@@ -15,6 +15,9 @@ Here's [my Github repo](https://github.com/imanly97) where you can find non-prof
 5. Data Mining 2: Unsupervised fake news detection. Used several unsupervised methods to separate a dataset into real and fake news. The best accuracy achieved was 78% via KMeans. Much of this paper was focused on feature engineering such as sentiment analysis
 6. Economics Thesis: Investigated the relationship between the West Africa Ebola Epidemic and West African Inequality. This study used multiple regression with causal mechanisms being unemployment and foreign investment. 
 
+### Contact
+- Email: imanly97@gmail.com
+- [Linkedin](https://www.linkedin.com/in/isaacmanly/)
 
 ### Proof I can code:
 ```
