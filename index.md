@@ -6,16 +6,17 @@ I'm a data scientist currently working at a start up based in Rochester, NY who 
 
 ### Projects I've done:
 
-Here's [my Github repo](https://github.com/imanly97) where you can find some non-professional projects. School projects include:
+Here's [my Github repo](https://github.com/imanly97) where you can find some non-professional projects. School and work projects include:
 
 1. FLX AI: Command line tool for automated strategy evaluation in python. The tool reads in financial data, cleans, formats, and outputs extensive evaluations including visualizations and statistics on time, stability, risk, etc.
-2. Paychex: Used classification models to predict which of the clients would agree to upgrade their Professional Employer Organization services if approached by the HR companyt for Master’s capstone project. Implemented methods such as SVM and Logistic Regression. 
-3. Machine Vision: Implemented a CNN to predict the rating of a book given its poster in python. An accuracy of 81% was achieved over 5 classes.
-4. Machine Vision: Implemented and trained a GAN for style transfer
-5. Time Series: Implemented an LSTM to predict the last name given a first across many nationalities.
-6. Data Mining 1: Citi Bike predictive modeling. Used a few supervised methods like Naïve Bayes and NN’s to predict the end location of a NYC user’s trip. The best average error achieved was 1.8 miles.
-7. Data Mining 2: Unsupervised fake news detection. Used several unsupervised methods to separate a dataset into real and fake news. The best accuracy achieved was 78% via KMeans. Much of this paper was focused on feature engineering such as sentiment analysis
-8. Economics Thesis: Investigated the relationship between the West Africa Ebola Epidemic and West African Inequality. This study used multiple regression with causal mechanisms being unemployment and foreign investment. The result was that Ebola did not exacerbate West African inequality.
+2. Paychex: Used classification models to predict which of the clients would agree to upgrade their Professional Employer Organization services if approached by Paychex for Master’s capstone project. Implemented methods such as SVM and Logistic Regression.
+3. Excellus Blue Cross Blue Shield: Used Power BI to communicate survey data gathered by Excellus for the marketing team.
+4. Machine Vision: Implemented a CNN to predict the rating of a book given its poster in python. An accuracy of 81% was achieved over 5 classes.
+5. Machine Vision: Implemented and trained a GAN for style transfer
+6. Time Series: Implemented an LSTM to predict the last name given a first across many nationalities.
+7. Data Mining 1: Citi Bike predictive modeling. Used a few supervised methods like Naïve Bayes and NN’s to predict the end location of a NYC user’s trip. The best average error achieved was 1.8 miles.
+8. Data Mining 2: Unsupervised fake news detection. Used several unsupervised methods to separate a dataset into real and fake news. The best accuracy achieved was 78% via KMeans. Much of this paper was focused on feature engineering such as sentiment analysis
+9. Economics Thesis: Investigated the relationship between the West Africa Ebola Epidemic and West African Inequality. This study used multiple regression with causal mechanisms being unemployment and foreign investment. The result was that Ebola did not exacerbate West African inequality.
 
 ### Contact me:
 - Email: imanly97@gmail.com
