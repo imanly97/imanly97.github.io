@@ -2,9 +2,9 @@
 
 ### About me:
 
-I'm a data scientist currently working at a start up based in Rochester, NY who graduated from a master's program at the start of 2022. I chose this line of work because I believe that the best way to understand the world is through data, and enjoy extracting signal or truth from noise. On the life side of the work-life balance, I like to spend my free time reading, cooking, fencing, gaming with friends, or rock climbing.
+I'm a data scientist currently working at a start up based in Rochester, NY who graduated from a master's program at the start of 2022. I chose this line of work because I believe that the best way to understand the world is through data, and enjoy extracting the signal from noise. On the life side of the work-life balance, I like to spend my free time reading, cooking, fencing, gaming with friends, or rock climbing.
 
-### Projects I've done:
+### Projects:
 
 Here's [my Github repo](https://github.com/imanly97) where you can find some non-professional projects. School and work projects include:
 
